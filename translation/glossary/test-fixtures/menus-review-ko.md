@@ -22,35 +22,35 @@ No conflicts.
 
 | # | ID | English | Korean | ✅ Confirmed | Notes |
 |---:|---|---|---|---|---|
-| 1 | navigation.wallets | Wallets | 지갑 |  |  |
-| 2 | navigation.guides | Guides | 가이드 |  |  |
-| 3 | navigation.tutorials | Tutorials | 튜토리얼 |  |  |
-| 4 | navigation.governance | Governance | 거버넌스 |  |  |
-| 5 | navigation.visualizer | Visualizer | 시각화 도구 |  |  |
-| 6 | navigation.dao | DAO | DAO |  |  |
-| 7 | navigation.newsletter | Newsletter | 뉴스레터 |  |  |
-| 8 | navigation.donate | Donate | 기부 |  |  |
-| 9 | navigation.explore | Explore | 탐색 |  |  |
-| 10 | navigation.developers | Developers | 개발자 |  |  |
-| 11 | navigation.community | Community | 커뮤니티 |  |  |
-| 12 | navigation.contribute | Contribute | 기여 |  |  |
-| 13 | navigation.dashboard | Dashboard | 대시보드 |  |  |
-| 14 | navigation.more | More | 더보기 |  |  |
-| 15 | navigation.usingZcash.label | Use Zcash | Zcash 사용 |  |  |
-| 16 | navigation.usingZcash.buyingZec | Buying ZEC | ZEC 구매 |  |  |
-| 17 | navigation.usingZcash.faucets | Faucets | 수도꼭지 |  |  |
-| 18 | navigation.usingZcash.wallets | Wallets | 지갑 |  |  |
-| 19 | navigation.usingZcash.exchanges | Exchanges | 거래소 |  |  |
-| 20 | navigation.usingZcash.blockExplorers | Block Explorers | 블록 탐색기 |  |  |
-| 21 | navigation.usingZcash.shieldedPools | Shielded Pools | Shielded Pools |  |  |
-| 22 | navigation.usingZcash.transparentExchangeAddresses | Transparent Exchange Addresses | Transparent Exchange Addresses |  |  |
-| 23 | navigation.usingZcash.transactions | Transactions | 거래 |  |  |
-| 24 | navigation.usingZcash.memos | Memos | 메모 |  |  |
-| 25 | navigation.usingZcash.mobileTopUps | Mobile Top Ups | 모바일 충전 |  |  |
-| 26 | navigation.usingZcash.paymentRequestUris | Payment Request URIs | 결제 요청 URI |  |  |
-| 27 | navigation.usingZcash.paymentProcessors | Payment Processors | 결제 처리업체 |  |  |
-| 28 | navigation.usingZcash.recoveringFunds | Recovering Funds | 자금 복구 |  |  |
-| 29 | navigation.usingZcash.tools | Tools | 도구 |  |  |
+| 1 | navigation.wallets | Wallets | 지갑 | OK |  |
+| 2 | navigation.guides | Guides | 가이드 | OK |  |
+| 3 | navigation.tutorials | Tutorials | 튜토리얼 | OK |  |
+| 4 | navigation.governance | Governance | 거버넌스 | OK |  |
+| 5 | navigation.visualizer | Visualizer | 시각화 도구 | OK |  |
+| 6 | navigation.dao | DAO | DAO | keep English |  |
+| 7 | navigation.newsletter | Newsletter | 뉴스레터 | OK |  |
+| 8 | navigation.donate | Donate | 기부 | OK |  |
+| 9 | navigation.explore | Explore | 탐색 | OK |  |
+| 10 | navigation.developers | Developers | 개발자 | OK |  |
+| 11 | navigation.community | Community | 커뮤니티 | OK |  |
+| 12 | navigation.contribute | Contribute | 기여 | OK |  |
+| 13 | navigation.dashboard | Dashboard | 대시보드 | OK |  |
+| 14 | navigation.more | More | 더보기 | OK |  |
+| 15 | navigation.usingZcash.label | Use Zcash | Zcash 사용 | OK |  |
+| 16 | navigation.usingZcash.buyingZec | Buying ZEC | ZEC 구매 | OK |  |
+| 17 | navigation.usingZcash.faucets | Faucets | 수도꼭지 | OK |  |
+| 18 | navigation.usingZcash.wallets | Wallets | 지갑 | OK |  |
+| 19 | navigation.usingZcash.exchanges | Exchanges | 거래소 | OK |  |
+| 20 | navigation.usingZcash.blockExplorers | Block Explorers | 블록 탐색기 | OK |  |
+| 21 | navigation.usingZcash.shieldedPools | Shielded Pools | Shielded Pools | keep English |  |
+| 22 | navigation.usingZcash.transparentExchangeAddresses | Transparent Exchange Addresses | Transparent Exchange Addresses | 거래소 공개 주소(t-address) | Clearer for users to understand |
+| 23 | navigation.usingZcash.transactions | Transactions | 거래 | 트랜잭션 | Better for Korean crypto users |
+| 24 | navigation.usingZcash.memos | Memos | 메모 | OK |  |
+| 25 | navigation.usingZcash.mobileTopUps | Mobile Top Ups | 모바일 충전 | 휴대폰 요금 충전 | Specifies mobile recharge clearly |
+| 26 | navigation.usingZcash.paymentRequestUris | Payment Request URIs | 결제 요청 URI | OK |  |
+| 27 | navigation.usingZcash.paymentProcessors | Payment Processors | 결제 처리업체 | OK |  |
+| 28 | navigation.usingZcash.recoveringFunds | Recovering Funds | 자금 복구 | OK |  |
+| 29 | navigation.usingZcash.tools | Tools | 도구 | OK |  |
 | 30 | navigation.usingZcash.useCases | Use Cases | 사용 사례 |  |  |
 | 31 | navigation.usingZcash.useCasesSubmenu.startHere | Start Here | 여기서 시작 |  |  |
 | 32 | navigation.usingZcash.useCasesSubmenu.acceptPayments | Accept Payments | 결제 받기 |  |  |
